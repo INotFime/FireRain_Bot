@@ -1,6 +1,6 @@
 import nextcord
 from nextcord import Interaction, SlashOption
-from nextcord.ext import activities, commands
+from nextcord.ext import commands
 
 bot = commands.Bot(command_prefix="$")
 
@@ -44,7 +44,7 @@ class report(nextcord.ui.Modal):
         self.add_item(self.description)
 
     async def callback(self, interaction: nextcord.Interaction) -> None:
-        channel = bot.get_channel(960200294703177799)
+        channel = bot.get_channel(channel id here)
         response = f"Violator - {self.name.value}."
         if self.description.value != "":
             response += f"\nViolation - {self.description.value}\n By - {interaction.user}"
