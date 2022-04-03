@@ -17,7 +17,11 @@
 ![Регистрация на replit](https://user-images.githubusercontent.com/83116565/161439691-ff996359-0d1e-4d9c-909b-e025fa720c8c.png)
 
 #### Создание проекта
-Потом...
+1. Создайте проект и скопируйте репозиторий
+![Создание](https://user-images.githubusercontent.com/83116565/161441190-4876a6d7-d224-4b74-9cfc-bc4367d58a11.png)
+![Копирование](https://user-images.githubusercontent.com/83116565/161441191-fe42cead-ba33-4a31-a9df-019aab5bffb0.png)
+![Создание](https://user-images.githubusercontent.com/83116565/161441195-4c82977f-7bfe-4ddd-86c4-fd360fd99c3f.png)
+
 
 #### Регистрация на UptimeRobot
 
