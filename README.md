@@ -22,9 +22,16 @@
 ![Копирование](https://user-images.githubusercontent.com/83116565/161441191-fe42cead-ba33-4a31-a9df-019aab5bffb0.png)
 ![Создание](https://user-images.githubusercontent.com/83116565/161441195-4c82977f-7bfe-4ddd-86c4-fd360fd99c3f.png)
 
+##### Не забудьте про библиотеки nextcord и Flask
 
 #### Регистрация на UptimeRobot
 
 1. Перейдите на сайт [UptimeRobot](uptimerobot.com)
 2. Зарегестрируйтесь
 ![Регистрация на UptimeRobot](https://user-images.githubusercontent.com/83116565/161440013-003e0ae3-8aca-4590-89ff-9fd2671fe4e5.png)
+3. Добавьте монитор
+![Создание монитора](https://user-images.githubusercontent.com/83116565/161441851-1342d73b-6e20-4a0f-8c9d-2d046274b7cf.png)
+![Создание монитора 2](https://user-images.githubusercontent.com/83116565/161441853-a3e1e62c-626c-49c1-bef9-bb1775409d6d.png)
+
+
+## Готово!
